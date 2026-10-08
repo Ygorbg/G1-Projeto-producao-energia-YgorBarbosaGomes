@@ -128,6 +128,7 @@ projeto-producao-energia/
 ├── database/
 │   └── producao_energia.sqlite
 └── imagens/
+```
 
 ## 🌐 Publicação
 O projeto será disponibilizado através de:
