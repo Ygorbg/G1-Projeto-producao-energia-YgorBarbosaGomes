@@ -132,9 +132,9 @@ projeto-producao-energia/
 
 ## 🌐 Publicação
 O projeto será disponibilizado através de:
-- GitHub: repositório completo do projeto;
-- GitHub Pages: página de apresentação;
-- Streamlit Cloud: dashboard interativo.
+- GitHub: [repositório completo do projeto;](https://github.com/Ygorbg/G1-Projeto-producao-energia-YgorBarbosaGomes)
+- GitHub Pages: [página de apresentação;](https://ygorbg.github.io/G1-Projeto-producao-energia-YgorBarbosaGomes/)
+- Streamlit Cloud: [dashboard interativo.](https://g1-projeto-proucao-energia-ygorbarbosagomes.streamlit.app/)
 Os links serão adicionados após a publicação.
 
 ## 📝 Conclusão
