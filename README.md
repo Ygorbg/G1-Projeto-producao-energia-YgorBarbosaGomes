@@ -135,7 +135,6 @@ O projeto será disponibilizado através de:
 - GitHub: [repositório completo do projeto;](https://github.com/Ygorbg/G1-Projeto-producao-energia-YgorBarbosaGomes)
 - GitHub Pages: [página de apresentação;](https://ygorbg.github.io/G1-Projeto-producao-energia-YgorBarbosaGomes/)
 - Streamlit Cloud: [dashboard interativo.](https://g1-projeto-proucao-energia-ygorbarbosagomes.streamlit.app/)
-Os links serão adicionados após a publicação.
 
 ## 📝 Conclusão
 A análise permitiu observar a composição e a evolução da produção de energia no Brasil entre 2015 e 2024.
